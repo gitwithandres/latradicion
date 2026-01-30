@@ -172,7 +172,7 @@ app.innerHTML = `
       </p>
 
       <a
-        href="https://wa.me/573001234567"
+        href="https://wa.me/573167740131?text=Hola!%20vi%20tu%20sitio%20web%20y%20quiero%20información."
         target="_blank"
         class="inline-block bg-neutral-900 text-white font-semibold px-10 py-5 rounded-2xl hover:bg-neutral-800 transition"
       >
