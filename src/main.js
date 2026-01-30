@@ -9,7 +9,7 @@ app.innerHTML = `
     <!-- Background -->
     <div class="absolute inset-0">
       <img
-        src="/src/assets/images/hero.jpg"
+        src="/images/hero.jpg"
         alt="Plato tradicional del restaurante"
         class="w-full h-full object-cover opacity-40"
       />
@@ -63,7 +63,7 @@ app.innerHTML = `
       <!-- Imagen -->
       <div class="relative">
         <img
-          src="/src/assets/images/about.jpg"
+          src="/images/about.jpg"
           alt="Cocina tradicional del restaurante"
           class="rounded-2xl shadow-xl"
         />
@@ -89,7 +89,7 @@ app.innerHTML = `
             hover:-translate-y-2 hover:shadow-2xl
             ">
           <img
-              src="/src/assets/images/bandeja-tradicional.jpg"
+              src="/images/bandeja-tradicional.jpg"
               alt="Plato tradicional 1"
               class="w-full h-56 object-cover
               transition-transform duration-300 ease-out
@@ -114,7 +114,7 @@ app.innerHTML = `
             hover:-translate-y-2 hover:shadow-2xl
             ">
           <img
-              src="/src/assets/images/sancocho-casero.jpg"
+              src="/images/sancocho-casero.jpg"
               alt="Plato tradicional 2"
               class="w-full h-56 object-cover
               transition-transform duration-300 ease-out
@@ -138,7 +138,7 @@ app.innerHTML = `
             hover:-translate-y-2 hover:shadow-2xl
             ">
           <img
-            src="/src/assets/images/postre-bucaramanga.jpg"
+            src="/images/postre-bucaramanga.jpg"
               alt="Plato tradicional 3"
               class="w-full h-56 object-cover
               transition-transform duration-300 ease-out
